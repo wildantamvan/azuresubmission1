@@ -14,8 +14,8 @@ $conn = mysql_connect("localhost","root","root")
  */
 
 $databaseHost = 'dicodingfix1.mysql.database.azure.com';
-//$databaseName = 'dicodingfix1';
-$databaseName = 'test';
+$databaseName = 'dicodingfix1';
+//$databaseName = 'test';
 
 $databaseUsername = 'wildan@dicodingfix1';
 $databasePassword = 'Dicoding123';
